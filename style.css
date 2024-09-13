@@ -27,7 +27,7 @@
 
 }
 .logo{
-    background-image: url("file:///E:/CSS/Project/images/amazon_logo.png"); 
+    background-image: url("https://ecommerce-amazon-website-clone.netlify.app/images/amazon_logo.png"); 
     background-size: cover;
     height: 50px;
     width: 100px;
