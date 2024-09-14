@@ -249,10 +249,11 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-around;
-    background-color: #E3E6E6;
+    justify-content: space-evenly;
     padding-left: 10px;
     padding-right: 10px;
+    top: -250px;
+    position: relative;
 }
 
 .box{
